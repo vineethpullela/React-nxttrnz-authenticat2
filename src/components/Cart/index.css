@@ -1,22 +1,11 @@
 .cart-container {
-  height: 100vh;
-}
-
-.cart {
-  height: 100vh;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  align-items: center;
+  height: 70vh;
 }
 
-.cart-icon {
-  height: 100px;
-}
-
-.cart-title {
-  color: #1e293b;
-  font-family: 'Roboto';
-  font-size: 32px;
+.cart-img {
+  width: 150px;
 }

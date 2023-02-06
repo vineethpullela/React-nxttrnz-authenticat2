@@ -1,4 +1,4 @@
-import {Route, Switch} from 'react-router-dom'
+import {Switch, Route} from 'react-router-dom'
 
 import LoginForm from './components/LoginForm'
 import Home from './components/Home'
